@@ -1,0 +1,9 @@
+TFSI-I/
+.venv/
+venv/
+env/
+
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.env
